@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on RISC-V processor design.
 - 🌱 I’m currently learning Verilog/SystemVerilog , IC design and verification, and UVM ...
 
-![](https://github-readme-stats.vercel.app/api?username=0rd1narY1&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0rd1narY1&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 - 😆总访客数 ---
 ![Visitor Count](https://profile-counter.glitch.me/0rd1narY1/count.svg)
